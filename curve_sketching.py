@@ -13,7 +13,7 @@ ableitung2 = diff(ableitung1, x)
 ableitung3 = diff(ableitung2, x)
 
 # Funktion sowie Ableitung printen
-print(f"Kurvendiskusion/Funktionsuntersuchung der Funktion  : {funktion}")
+print(f"Funktionsuntersuchung der Funktion  : {funktion}")
 print(f"Erste Ableitung  : {ableitung1}")
 print(f"Zweite Ableitung : {ableitung2}")
 print(f"Dritte Ableitung : {ableitung3}")
