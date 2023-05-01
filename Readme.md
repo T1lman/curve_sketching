@@ -1,6 +1,7 @@
 # Tool for curve Sketching
 
 Output Example:
+
     Kurvendiskusion/Funktionsuntersuchung der Funktion  : x**3 + x**2
     Erste Ableitung  : 3*x**2 + 2*x
     Zweite Ableitung : 6*x + 2
